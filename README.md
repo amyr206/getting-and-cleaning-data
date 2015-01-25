@@ -10,13 +10,13 @@
 ### FILES IN THIS REPO:
 
 * [README.md](https://github.com/amyr206/getting-and-cleaning-data/blob/master/README.md) - this file
-* [run_analysis.r](https://github.com/amyr206/getting-and-cleaning-data/blob/master/run_analysis.r) - conducts the analysis and tidies the data
+* [run_analysis.R](https://github.com/amyr206/getting-and-cleaning-data/blob/master/run_analysis.r) - conducts the analysis and tidies the data
 * [CODEBOOK.pdf](https://github.com/amyr206/getting-and-cleaning-data/blob/master/CODEBOOK.pdf) - describes variables
 
 ### ADDITIONAL DATA NEEDED TO CONDUCT ANALYSIS:
 
 * [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip) from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
-* [run_analysis.r](https://github.com/amyr206/getting-and-cleaning-data/blob/master/run_analysis.r) assumes that the user has downloaded the zipped data file, and that the unzipped files are located in a subfolder of the user's local working R directory called "UCI HAR Dataset"
+* [run_analysis.r](https://github.com/amyr206/getting-and-cleaning-data/blob/master/run_analysis.R) assumes that the user has downloaded the zipped data file, and that the unzipped files are located in a subfolder of the user's local working R directory called "UCI HAR Dataset"
 
 ### ANALYSIS PROCESS:
 1. Merges the training and the test sets to create one data set. 
@@ -31,9 +31,9 @@
 
 ### SOURCES:
 * [The Getting and Cleaning Data discussion forums](https://class.coursera.org/getdata-010/forum), particularly these threads:
-+ [David's Project FAQ](https://class.coursera.org/getdata-010/forum/thread?thread_id=49)
-+ [Tidy data and the assignment](https://class.coursera.org/getdata-010/forum/thread?thread_id=241)
-+ [Replacing values id with desc in DF using lookup from another DF](https://class.coursera.org/getdata-010/forum/thread?thread_id=273)
+	+ [David's Project FAQ](https://class.coursera.org/getdata-010/forum/thread?thread_id=49)
+	+ [Tidy data and the assignment](https://class.coursera.org/getdata-010/forum/thread?thread_id=241)
+	+ [Replacing values id with desc in DF using lookup from another DF](https://class.coursera.org/getdata-010/forum/thread?thread_id=273)
 * [Getting and Cleaning Data lectures](https://class.coursera.org/getdata-010/lecture)
 * Wickham, Hadley. Tidy Data. *The Journal of Statistical Software*, vol. 59, 2014. 
 * Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. *International Workshop of Ambient Assisted Living (IWAAL 2012)*. Vitoria-Gasteiz, Spain. Dec 2012
