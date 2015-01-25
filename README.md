@@ -10,13 +10,13 @@
 ### FILES IN THIS REPO:
 
 * [README.md](https://github.com/amyr206/getting-and-cleaning-data/blob/master/README.md) - this file
-* [run_analysis.R](https://github.com/amyr206/getting-and-cleaning-data/blob/master/run_analysis.r) - conducts the analysis and tidies the data
+* [run_analysis.R](https://github.com/amyr206/getting-and-cleaning-data/blob/master/run_analysis.R) - conducts the analysis and tidies the data
 * [CODEBOOK.pdf](https://github.com/amyr206/getting-and-cleaning-data/blob/master/CODEBOOK.pdf) - describes variables
 
 ### ADDITIONAL DATA NEEDED TO CONDUCT ANALYSIS:
 
 * [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/machine-learning-databases/00240/UCI%20HAR%20Dataset.zip) from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
-* [run_analysis.r](https://github.com/amyr206/getting-and-cleaning-data/blob/master/run_analysis.R) assumes that the user has downloaded the zipped data file, and that the unzipped files are located in a subfolder of the user's local working R directory called "UCI HAR Dataset"
+* [run_analysis.R](https://github.com/amyr206/getting-and-cleaning-data/blob/master/run_analysis.R) assumes that the user has downloaded the zipped data file, and that the unzipped files are located in a subfolder of the user's local working R directory called "UCI HAR Dataset"
 
 ### ANALYSIS PROCESS:
 1. Merges the training and the test sets to create one data set. 
